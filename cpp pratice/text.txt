@@ -1,0 +1,6 @@
+student name =pradyumna 
+student roll =104 
+student cgpa =9.520000 
+student name =girija 
+student roll =105 
+student cgpa =9.760000 
